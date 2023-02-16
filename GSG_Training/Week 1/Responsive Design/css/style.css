@@ -32,7 +32,6 @@ h3 {
 }
 
 h1 {
-    color: #143774;
     font-size: 2rem;
     margin: 0;
 }
@@ -40,7 +39,6 @@ h1 {
 
 a {
     color: #1792d2;
-    font-weight: bold;
 }
 
 a:hover, 
@@ -240,10 +238,7 @@ nav a:hover, nav a:focus {
     margin-bottom: 1em;
 }
 
-.widget-recent-post:last-child {
-    border: 0;
-    margin: 0;
-}
+
 
 .widget-image {
     order: -1;
